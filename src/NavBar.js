@@ -5,7 +5,7 @@ export default function NavBar()
     return(
     <>
     <div className="Nav">
-        <a className="NavText">Meme Generator</a>
+        <a className="NavText">Meme Guesser</a>
     </div>
     </>
     )
